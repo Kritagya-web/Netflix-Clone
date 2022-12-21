@@ -1,4 +1,5 @@
-# Netflix-Clone
+# Netflix-Clone &middot; [![Author Kritagya](https://img.shields.io/badge/Author-Kritagya-%3C%3E)](https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/)
+This is a ReactJs site for learning purpose.
 
 ![DemoGif](flixdemo.gif)
 
